@@ -1,3 +1,3 @@
 # slider
 
-Projekt po module JavaScript
+Prosty slider w JavaScript
